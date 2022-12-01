@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Berkshire+Swash&family=Creepster&family=Marck+Script&family=Merriweather:ital,wght@1,300&family=Oswald:wght@300&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&family=Rubik+Glitch&family=Staatliches&family=Syne+Mono&family=Zilla+Slab:ital,wght@1,300&display=swap');
+ h1{
+    color: rgb(201 12 12);
+    text-align: center;
+    font-size: 50px;
+    height: 50px;
+ }
+.mBox{
+    width: 21%;
+    height: 800px;
+    background-color:#858785;
+    color:rgb(29, 27, 27);
+    padding: 20px;
+    border-radius: 15px;
+    float:left;
+    margin: 15px;
+    box-shadow: 10px 5px 5px #974242e8;
+}
+body{
+    background-color: #0b0c0b;
+    padding: 30px;
+    height: 200px;
+    
+}
+.mBox h3{
+    text-align:left;
+    color: #89000d;
+    font-size: 25px;
+    font-family: 'Berkshire Swash', cursive;
+    
+    
+}
+.mBox img{
+    border-radius: 10px;
+    width: 100%;
+    max-width: 100%;
+    height: 500px;
+    
+}
+.mBOX p{
+    color: black;
+    font-size: 15px;
+    
+}
+.mBox button{
+    background-color:rgb(192, 207, 107);
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    width: 200PX;
+
+}
